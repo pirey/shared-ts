@@ -1,0 +1,1 @@
+Project agnostic shared library.
